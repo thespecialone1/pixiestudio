@@ -1,4 +1,4 @@
-# Photography Gallery Application
+# PixieStudio - Secure Gallery System
 
 A secure, professional photography gallery platform for photographers to share their work with clients.
 
